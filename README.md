@@ -1,1 +1,1 @@
-# Imageclassifier_MobilenetV2
+# imageclassifierapp
